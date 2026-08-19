@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm Rehaan Kadhar.<br><br>An Aerospace Engineering freshman @ UC Berkeley passionate about everything AI/ML and Aerospace. Exploring automation in simulation workflows and geometry driven processes.<br><br>
+## 👋 Hi there! I'm Rehaan Kadhar.<br><br>, passionate about everything AI/ML and Aerospace. Exploring automation in simulation workflows and geometry driven processes.<br><br>
 
 <br>### 📈 Recent Projects<br>- **M³LungXAI-LF**: Explainable and accurate multi-modal system for lung cancer diagnosis with automated medical reporting<br>- **ROM for Scramjets**: Developed a reduced-order model for supersonic scrmjet engine simulations on self trained CFD data<br><br>### 🏆 Highlights<br>- 🎙️ Presenter at **AIAA Region VI Student Conference**<br>- 🥇 "Best Presenter" at **2024 IYRC Spring Conference**<br>- 📊 Accepted to present at the **7th ACMLC Research Conference**<br>- 🌍 Finalist at the **Regeneron International Science and Engineering Fair (ISEF)**<br>- 🛩️ Building a **full-scale, pilotable aircraft** from the ground up---<br><br>
 
